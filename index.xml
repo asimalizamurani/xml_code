@@ -4,7 +4,7 @@
 xmlns:b="https//www.mehran.com/student-two"
 xmlns:c="https//www.samir.com/student-three"
 xmlns:d="htttps//www.ajmal.com/student-fout">
-<class-seventh>
+<class-seventh id="1">
 <a:name> Asim Ali </a:name>
 <a:fname> Ismail </a:fname>
 <a:percentage> 95 </a:percentage>
@@ -12,7 +12,7 @@ xmlns:d="htttps//www.ajmal.com/student-fout">
 <a:rollnumber> 625601 </a:rollnumber>
 </class-seventh>
 
-<class-eight>
+<class-eight id="2">
 <b:name> Mehran </b:name>
 <b:fname> Saleem </b:fname>
 <b:percentage> 98 </b:percentage>
@@ -20,7 +20,7 @@ xmlns:d="htttps//www.ajmal.com/student-fout">
 <b:rollnumber> 625602 </b:rollnumber>
 </class-eight>
 
-<class-ninth>
+<class-ninth id="3">
 <c:name> Samir Hassan </c:name>
 <c:fname> Hassan </c:fname>
 <c:percentage> 93 </c:percentage>
@@ -28,7 +28,7 @@ xmlns:d="htttps//www.ajmal.com/student-fout">
 <c:rollnumber> 625603 </c:rollnumber>
 </class-ninth>
 
-<class-tenth>
+<class-tenth id="4">
 <d:name> Ajmal Ali </d:name>
 <d:fname> Ali jan </d:fname>
 <d:percentage> 89 </d:percentage>
