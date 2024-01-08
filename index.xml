@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<students xmlns:a="https//www.asimali.com/myweb"
+xmlns:b="https//www.mehran.com/student-two"
+xmlns:c="https//www.samir.com/student-three"
+xmlns:d="htttps//www.ajmal.com/student-fout">
+<class-seventh>
+<a:name> Asim Ali </a:name>
+<a:fname> Ismail </a:fname>
+<a:percentage> 95 </a:percentage>
+<a:class> 7th </a:class>
+<a:rollnumber> 625601 </a:rollnumber>
+</class-seventh>
+
+<class-eight>
+<b:name> Mehran </b:name>
+<b:fname> Saleem </b:fname>
+<b:percentage> 98 </b:percentage>
+<b:class> 8th </b:class>
+<b:rollnumber> 625602 </b:rollnumber>
+</class-eight>
+
+<class-ninth>
+<c:name> Samir Hassan </c:name>
+<c:fname> Hassan </c:fname>
+<c:percentage> 93 </c:percentage>
+<c:class> 9th </c:class>
+<c:rollnumber> 625603 </c:rollnumber>
+</class-ninth>
+
+<class-tenth>
+<d:name> Ajmal Ali </d:name>
+<d:fname> Ali jan </d:fname>
+<d:percentage> 89 </d:percentage>
+<d:class> 10th </d:class>
+<d:rollnumber> 625604 </d:rollnumber>
+</class-tenth>
+
+</students>
